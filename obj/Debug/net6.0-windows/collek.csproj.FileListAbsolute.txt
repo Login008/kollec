@@ -1,0 +1,17 @@
+C:\Users\307-02\Desktop\Миронов ПР-21\collek\bin\Debug\net6.0-windows\collek.exe
+C:\Users\307-02\Desktop\Миронов ПР-21\collek\bin\Debug\net6.0-windows\collek.deps.json
+C:\Users\307-02\Desktop\Миронов ПР-21\collek\bin\Debug\net6.0-windows\collek.runtimeconfig.json
+C:\Users\307-02\Desktop\Миронов ПР-21\collek\bin\Debug\net6.0-windows\collek.dll
+C:\Users\307-02\Desktop\Миронов ПР-21\collek\bin\Debug\net6.0-windows\collek.pdb
+C:\Users\307-02\Desktop\Миронов ПР-21\collek\obj\Debug\net6.0-windows\collek.csproj.AssemblyReference.cache
+C:\Users\307-02\Desktop\Миронов ПР-21\collek\obj\Debug\net6.0-windows\collek.Form1.resources
+C:\Users\307-02\Desktop\Миронов ПР-21\collek\obj\Debug\net6.0-windows\collek.csproj.GenerateResource.cache
+C:\Users\307-02\Desktop\Миронов ПР-21\collek\obj\Debug\net6.0-windows\collek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\307-02\Desktop\Миронов ПР-21\collek\obj\Debug\net6.0-windows\collek.AssemblyInfoInputs.cache
+C:\Users\307-02\Desktop\Миронов ПР-21\collek\obj\Debug\net6.0-windows\collek.AssemblyInfo.cs
+C:\Users\307-02\Desktop\Миронов ПР-21\collek\obj\Debug\net6.0-windows\collek.csproj.CoreCompileInputs.cache
+C:\Users\307-02\Desktop\Миронов ПР-21\collek\obj\Debug\net6.0-windows\collek.dll
+C:\Users\307-02\Desktop\Миронов ПР-21\collek\obj\Debug\net6.0-windows\refint\collek.dll
+C:\Users\307-02\Desktop\Миронов ПР-21\collek\obj\Debug\net6.0-windows\collek.pdb
+C:\Users\307-02\Desktop\Миронов ПР-21\collek\obj\Debug\net6.0-windows\collek.genruntimeconfig.cache
+C:\Users\307-02\Desktop\Миронов ПР-21\collek\obj\Debug\net6.0-windows\ref\collek.dll
